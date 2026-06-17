@@ -25,9 +25,9 @@ Note:- Product companies create and sell their own software/products.
       !!!) Jira = Not officially a full form (product name by Atlassian) :
          -> Used for project management, bug tracking, and task tracking.
       !V) IDE = Integrated Development Environment :
-        -> Used to write, run, test, and debug code in one place.
+         -> Used to write, run, test, and debug code in one place.
       V) API = Application Programming Interface :
-        -> Allows different software applications to communicate and exchange data.
+         -> Allows different software applications to communicate and exchange data.
 
 D] Name any 5 programming languages and mention one popular use case for each.
      1) Python - Machine Learning and Data Science
