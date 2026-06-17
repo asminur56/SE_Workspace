@@ -1,0 +1,43 @@
+A] Name 5 IT job roles and write one line about what each role does.
+    1) Frontend Developer – Builds the user interface of websites and web applications using HTML, CSS, and JavaScript.
+    2) Backend Developer – Develops server-side logic, databases, and APIs.
+    3) Full-Stack Developer – Works on both frontend and backend development.
+    4) Mobile App Developer – Creates applications for Android and iOS devices.
+    5) Data Scientist – Uses data, statistics, and machine learning to solve business problems.
+    
+B] List 3 product companies and 3 service companies with one example of work each does.
+    !) Product Companies:
+        Microsoft :- Develops products like Windows OS and Microsoft Office.
+        Google :-	Creates products such as Android and Google Chrome.
+        Adobe:-	Develops software like Photoshop and Acrobat Reader.
+    !!) Service Companies:
+        Tata Consultancy Services (TCS) :-	Builds and maintains software solutions for clients worldwide.
+        Infosys :-	Provides IT consulting and digital transformation services.
+        Wipro :-	It Offers cloud, cybersecurity, and software development services.
+Note:- Product companies create and sell their own software/products.
+       Service companies provide IT services and solutions to other businesses or clients.
+
+  C] Write the full forms and one-line use of: GitHub, Slack, Jira, IDE, API.
+       !) GitHub	= Git + Hub (code hosting platform based on Git) :	
+         -> Used to store, manage, and collaborate on software projects.
+      !!) Slack = Searchable Log of All Communication and Knowledge :
+         -> Used for team communication and collaboration.
+      !!!) Jira = Not officially a full form (product name by Atlassian) :
+         -> Used for project management, bug tracking, and task tracking.
+      !V) IDE = Integrated Development Environment :
+        -> Used to write, run, test, and debug code in one place.
+      V) API = Application Programming Interface :
+        -> Allows different software applications to communicate and exchange data.
+
+D] Name any 5 programming languages and mention one popular use case for each.
+     1) Python - Machine Learning and Data Science
+     2) Java - Android App Development
+     3) JavaScript - Interactive Web Development
+     4) C++ - Game Development
+     5) PHP - Server-Side Web Development.
+
+E] What is the difference between a developer and a tester? Answer in 2 lines.
+    Developer :- 
+              A Developer writes, builds, and maintains software applications by creating code and implementing features.
+    Tester :-
+              A Tester checks the software for bugs, verifies functionality, and ensures the application works correctly before release.
